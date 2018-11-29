@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="6e231ad6-4358-4bac-9130-f28407360e3c" type="jetbrains.git" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/2018.1/project-config.xsd">
+  <name>https://github.com/innayan/kate</name>
+  <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
+  <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
+  <param name="authMethod" value="PASSWORD" />
+  <param name="push_url" value="https://github.com/innayan/kate" />
+  <param name="secure:password" value="credentialsJSON:743453f1-1cec-4736-9afc-dc1d6d6e8816" />
+  <param name="submoduleCheckout" value="IGNORE" />
+  <param name="url" value="https://github.com/innayan/kate" />
+  <param name="username" value="inna_yan@mail.ru" />
+  <param name="usernameStyle" value="USERID" />
+</vcs-root>
+
